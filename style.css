@@ -62,6 +62,37 @@
   color: cadetblue;
 
 }
+
+
+/**nuestro colegio**/
+
+
+
+
+h2{
+  text-align: center;
+  color: cadetblue;
+  
+}
+
+.jardinn_card_areas {
+  text-align: center;
+  width: 15rem;
+  margin: 3%;
+}
+
+.primariaa_card_areas {
+  text-align: center;
+  width: 15rem;
+  margin: 3%;
+}
+
+.secundariaa_card_areas {
+  text-align: center;
+  width: 15rem;
+  margin: 3%;
+}
+
 /**footer**/
 
 footer {

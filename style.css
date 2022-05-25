@@ -4,10 +4,14 @@
 }
 
 .lista_principal{
+  display: flex;
   list-style-type: none;
   font-family: 'Arima Madurai', cursive;
   font-size: 15px;
+ 
 }
+
+
 
 .logo_j {
   width: 20%;
@@ -75,10 +79,13 @@ h2{
   
 }
 
+
+
 .jardinn_card_areas {
   text-align: center;
   width: 15rem;
   margin: 3%;
+  
 }
 
 .primariaa_card_areas {
@@ -92,6 +99,29 @@ h2{
   width: 15rem;
   margin: 3%;
 }
+
+/**areas**/
+
+h3{
+  text-align:right;
+  color: cadetblue;
+}
+
+p{
+  text-align: center;
+}
+
+.imgArt{
+  width: 100%;
+}
+
+
+/**proyecto educativo*//
+
+h4{
+  color: cadetblue;
+}
+
 
 /**footer**/
 
@@ -126,4 +156,23 @@ footer {
     text-align: center;
     font-size: 1rem;
     padding: 5px;
+}
+
+@media (max-width: 768px) {
+  .contenedor-info-footer {
+      flex-direction: column;
+      align-items: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .contenedor-info-footer {
+      font-size: 10px;
+
+  }}
+  
+  @media (max-width: 768px) {
+    .titulo-info-footer{
+        font-size: 14px;
+    }
 }

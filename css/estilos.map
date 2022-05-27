@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "estilos.css",
+	"sources": [
+		"../scss/estilos.scss"
+	],
+	"sourcesContent": [
+		"/**index**/\r\n.logo {\r\n    width: 125px;\r\n  }\r\n  \r\n  .lista_principal{\r\n    display: flex;\r\n    list-style-type: none;\r\n    font-family: 'Arima Madurai', cursive;\r\n    font-size: 15px;\r\n   \r\n  }\r\n  \r\n  \r\n  \r\n  .logo_j {\r\n    width: 20%;\r\n    overflow: hidden;\r\n    margin: 20%;\r\n  }\r\n  \r\n  .card_jardin{\r\n    width: 15rem;\r\n    margin: 3%;\r\n    text-align: center;\r\n  }\r\n  \r\n  .logo_p {\r\n      width: 20%;\r\n      overflow: hidden;\r\n      margin: 20%;\r\n  }\r\n    \r\n  .card_primaria{\r\n      width: 15rem;\r\n      margin: 3%;\r\n      text-align: center;\r\n  }\r\n  \r\n  .logo_s {\r\n    width: 20%;\r\n    overflow: hidden;\r\n    margin: 20%;\r\n    transition: 0.5s;\r\n    object-fit: cover;\r\n    \r\n  }\r\n  \r\n  .logo_j:hover{\r\n    transform: scale(1.2);\r\n  }\r\n  .logo_p:hover{\r\n    transform: scale(1.2);\r\n  }\r\n  .logo_s:hover{\r\n    transform: scale(1.2);\r\n  }\r\n  \r\n  .card_secundaria{\r\n    width: 15rem;\r\n    margin: 3%;\r\n    text-align: center;\r\n  }\r\n  \r\n  .card-title {\r\n    color: cadetblue;\r\n  \r\n  }"
+	],
+	"names": [],
+	"mappings": "AAAA,WAAW;;AACX,AAAA,KAAK,CAAC;EACF,KAAK,EAAE,KAAK;CACb;;;AAED,AAAA,gBAAgB,CAAA;EACd,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,IAAI;EACrB,WAAW,EAAE,wBAAwB;EACrC,SAAS,EAAE,IAAI;CAEhB;;;AAID,AAAA,OAAO,CAAC;EACN,KAAK,EAAE,GAAG;EACV,QAAQ,EAAE,MAAM;EAChB,MAAM,EAAE,GAAG;CACZ;;;AAED,AAAA,YAAY,CAAA;EACV,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,EAAE;EACV,UAAU,EAAE,MAAM;CACnB;;;AAED,AAAA,OAAO,CAAC;EACJ,KAAK,EAAE,GAAG;EACV,QAAQ,EAAE,MAAM;EAChB,MAAM,EAAE,GAAG;CACd;;;AAED,AAAA,cAAc,CAAA;EACV,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,EAAE;EACV,UAAU,EAAE,MAAM;CACrB;;;AAED,AAAA,OAAO,CAAC;EACN,KAAK,EAAE,GAAG;EACV,QAAQ,EAAE,MAAM;EAChB,MAAM,EAAE,GAAG;EACX,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,KAAK;CAElB;;;AAED,AAAA,OAAO,AAAA,MAAM,CAAA;EACX,SAAS,EAAE,UAAU;CACtB;;;AACD,AAAA,OAAO,AAAA,MAAM,CAAA;EACX,SAAS,EAAE,UAAU;CACtB;;;AACD,AAAA,OAAO,AAAA,MAAM,CAAA;EACX,SAAS,EAAE,UAAU;CACtB;;;AAED,AAAA,gBAAgB,CAAA;EACd,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,EAAE;EACV,UAAU,EAAE,MAAM;CACnB;;;AAED,AAAA,WAAW,CAAC;EACV,KAAK,EAAE,SAAS;CAEjB"
+}

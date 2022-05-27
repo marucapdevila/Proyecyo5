@@ -1,0 +1,79 @@
+/**index**/
+/* line 2, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo {
+  width: 125px;
+}
+
+/* line 6, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.lista_principal {
+  display: flex;
+  list-style-type: none;
+  font-family: 'Arima Madurai', cursive;
+  font-size: 15px;
+}
+
+/* line 16, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo_j {
+  width: 20%;
+  overflow: hidden;
+  margin: 20%;
+}
+
+/* line 22, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.card_jardin {
+  width: 15rem;
+  margin: 3%;
+  text-align: center;
+}
+
+/* line 28, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo_p {
+  width: 20%;
+  overflow: hidden;
+  margin: 20%;
+}
+
+/* line 34, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.card_primaria {
+  width: 15rem;
+  margin: 3%;
+  text-align: center;
+}
+
+/* line 40, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo_s {
+  width: 20%;
+  overflow: hidden;
+  margin: 20%;
+  transition: 0.5s;
+  object-fit: cover;
+}
+
+/* line 49, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo_j:hover {
+  transform: scale(1.2);
+}
+
+/* line 52, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo_p:hover {
+  transform: scale(1.2);
+}
+
+/* line 55, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.logo_s:hover {
+  transform: scale(1.2);
+}
+
+/* line 59, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.card_secundaria {
+  width: 15rem;
+  margin: 3%;
+  text-align: center;
+}
+
+/* line 65, ../../../OneDrive/Escritorio/Proyecto 5.1/scss/estilos.scss */
+.card-title {
+  color: cadetblue;
+}
+
+/*# sourceMappingURL=estilos.css.map */
